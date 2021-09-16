@@ -146,8 +146,8 @@ a:visited {
 }
 
 .form__label {
-  flex: 0 0 50%;
-  font-size: 1.5rem;
+  flex: 0 0 39%;
+  font-size: 1.3rem;
   font-weight: 600;
 }
 
